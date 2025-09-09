@@ -1,0 +1,240 @@
+{
+  "name": "Towns",
+  "description": "Patterns that define towns and communities. These patterns can never be designed or built in one fell swoop, but require patient piecemeal growth where every individual act helps create larger global patterns over time.",
+  "process": "Piecemeal processes where each project built or planning decision is sanctioned by the community according to how it helps form large-scale patterns. Created by gradual, organic emergence rather than centralized authority or master plans.",
+  "pattern_range": {
+    "start": 1,
+    "end": 94
+  },
+  "sequences": [
+    {
+      "id": 1,
+      "heading": "Regions instead of countries",
+      "description": "Sequence 1 focuses on regions instead of countries",
+      "category": "Towns",
+      "patterns": [
+        1
+      ],
+      "emergent_phenomena": "Autonomous regions that can govern themselves and maintain their unique cultural identity"
+    },
+    {
+      "id": 2,
+      "heading": "Regional policies",
+      "description": "Sequence 2 focuses on regional policies",
+      "category": "Towns",
+      "patterns": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "emergent_phenomena": "Balanced distribution of settlements that preserves countryside while supporting urban vitality"
+    },
+    {
+      "id": 3,
+      "heading": "Major structures which define the city",
+      "description": "Sequence 3 focuses on major structures which define the city",
+      "category": "Towns",
+      "patterns": [
+        8,
+        9,
+        10,
+        11
+      ],
+      "emergent_phenomena": "Cities with clear identity and character formed by coherent underlying structures"
+    },
+    {
+      "id": 4,
+      "heading": "Communities and neighborhoods",
+      "description": "Sequence 4 focuses on communities and neighborhoods",
+      "category": "Towns",
+      "patterns": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "emergent_phenomena": "Human-scale communities where people know each other and can participate in local governance"
+    },
+    {
+      "id": 5,
+      "heading": "Community networks",
+      "description": "Sequence 5 focuses on community networks",
+      "category": "Towns",
+      "patterns": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "emergent_phenomena": "Connected networks that allow easy movement and communication while maintaining local character"
+    },
+    {
+      "id": 6,
+      "heading": "Character of local environments",
+      "description": "Sequence 6 focuses on character of local environments",
+      "category": "Towns",
+      "patterns": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "emergent_phenomena": "Local environments that support human life and activity at the pedestrian scale"
+    },
+    {
+      "id": 7,
+      "heading": "Local centers",
+      "description": "Sequence 7 focuses on local centers",
+      "category": "Towns",
+      "patterns": [
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ],
+      "emergent_phenomena": "Vibrant centers that draw people together for commerce, culture, and social interaction"
+    },
+    {
+      "id": 8,
+      "heading": "Housing",
+      "description": "Sequence 8 focuses on housing",
+      "category": "Towns",
+      "patterns": [
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ],
+      "emergent_phenomena": "Diverse housing that accommodates different household types and life stages"
+    },
+    {
+      "id": 9,
+      "heading": "Work",
+      "description": "Sequence 9 focuses on work",
+      "category": "Towns",
+      "patterns": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ],
+      "emergent_phenomena": "Integration of work into the fabric of community life rather than segregated industrial zones"
+    },
+    {
+      "id": 10,
+      "heading": "Local road and path network",
+      "description": "Sequence 10 focuses on local road and path network",
+      "category": "Towns",
+      "patterns": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57
+      ],
+      "emergent_phenomena": "Path networks that prioritize pedestrians while accommodating necessary vehicle access"
+    },
+    {
+      "id": 11,
+      "heading": "Public open land",
+      "description": "Sequence 11 focuses on public open land",
+      "category": "Towns",
+      "patterns": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ],
+      "emergent_phenomena": "Public spaces that provide access to nature and opportunities for recreation and gathering"
+    },
+    {
+      "id": 12,
+      "heading": "Local common land",
+      "description": "Sequence 12 focuses on local common land",
+      "category": "Towns",
+      "patterns": [
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ],
+      "emergent_phenomena": "Common lands that strengthen community bonds and provide shared resources"
+    },
+    {
+      "id": 13,
+      "heading": "Transformation of the family",
+      "description": "Sequence 13 focuses on transformation of the family",
+      "category": "Towns",
+      "patterns": [
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ],
+      "emergent_phenomena": "Family structures that support child development and intergenerational connection"
+    },
+    {
+      "id": 14,
+      "heading": "Transformation of work and learning",
+      "description": "Sequence 14 focuses on transformation of work and learning",
+      "category": "Towns",
+      "patterns": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89
+      ],
+      "emergent_phenomena": "Learning and work environments that are integrated into community life"
+    },
+    {
+      "id": 15,
+      "heading": "Transformation of local shops and gathering places",
+      "description": "Sequence 15 focuses on transformation of local shops and gathering places",
+      "category": "Towns",
+      "patterns": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ],
+      "emergent_phenomena": "Local economies that provide for daily needs and social gathering within walking distance"
+    }
+  ]
+}
