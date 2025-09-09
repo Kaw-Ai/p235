@@ -1,0 +1,245 @@
+{
+  "name": "Buildings",
+  "description": "Patterns that give shape to groups of buildings and individual buildings in three dimensions. These patterns define individual buildings and spaces between buildings, under the control of individuals or small groups who can build them all at once.",
+  "process": "Step-by-step procedure for building patterns into a design. Work on site with actual users, let form grow gradually from pattern fusion, take patterns one by one, maintain fluidity, keep track of area and budget throughout the process.",
+  "pattern_range": {
+    "start": 95,
+    "end": 204
+  },
+  "sequences": [
+    {
+      "id": 16,
+      "heading": "The overall arrangement of a group of buildings",
+      "description": "Sequence 16 focuses on the overall arrangement of a group of buildings",
+      "category": "Buildings",
+      "patterns": [
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ],
+      "emergent_phenomena": "Building groups that create coherent outdoor spaces and support community interaction"
+    },
+    {
+      "id": 17,
+      "heading": "The position of individual buildings",
+      "description": "Sequence 17 focuses on the position of individual buildings",
+      "category": "Buildings",
+      "patterns": [
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110
+      ],
+      "emergent_phenomena": "Individual buildings positioned to take advantage of site conditions and create good outdoor spaces"
+    },
+    {
+      "id": 18,
+      "heading": "Entrances, gardens, courtyards, roofs and terraces",
+      "description": "Sequence 18 focuses on entrances, gardens, courtyards, roofs and terraces",
+      "category": "Buildings",
+      "patterns": [
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119
+      ],
+      "emergent_phenomena": "Transitions between inside and outside that extend the usable space and connect building to site"
+    },
+    {
+      "id": 19,
+      "heading": "Paths and squares",
+      "description": "Sequence 19 focuses on paths and squares",
+      "category": "Buildings",
+      "patterns": [
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131
+      ],
+      "emergent_phenomena": "Pedestrian circulation that creates opportunities for encounter and makes spaces feel alive"
+    },
+    {
+      "id": 20,
+      "heading": "Gradients and connection of space",
+      "description": "Sequence 20 focuses on gradients and connection of space",
+      "category": "Buildings",
+      "patterns": [
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142
+      ],
+      "emergent_phenomena": "Spatial sequences that create privacy gradients and support different types of activities"
+    },
+    {
+      "id": 21,
+      "heading": "The most important areas and rooms (in a house)",
+      "description": "Sequence 21 focuses on the most important areas and rooms (in a house)",
+      "category": "Buildings",
+      "patterns": [
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151
+      ],
+      "emergent_phenomena": "Houses with clearly defined main areas that support family life and privacy"
+    },
+    {
+      "id": 22,
+      "heading": "The most important areas and rooms (in offices, workshops and public buildings)",
+      "description": "Sequence 22 focuses on the most important areas and rooms (in offices, workshops and public buildings)",
+      "category": "Buildings",
+      "patterns": [
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161
+      ],
+      "emergent_phenomena": "Work buildings with spaces that support both individual work and group collaboration"
+    },
+    {
+      "id": 23,
+      "heading": "Outbuildings and access to the street and gardens",
+      "description": "Sequence 23 focuses on outbuildings and access to the street and gardens",
+      "category": "Buildings",
+      "patterns": [
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171
+      ],
+      "emergent_phenomena": "Support buildings and connections that complete the building complex"
+    },
+    {
+      "id": 24,
+      "heading": "Knit the inside of the building to the outside",
+      "description": "Sequence 24 focuses on knit the inside of the building to the outside",
+      "category": "Buildings",
+      "patterns": [
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182
+      ],
+      "emergent_phenomena": "Buildings that open to and engage with their surroundings rather than turning inward"
+    },
+    {
+      "id": 25,
+      "heading": "Arrange the gardens, and the places in the gardens",
+      "description": "Sequence 25 focuses on arrange the gardens, and the places in the gardens",
+      "category": "Buildings",
+      "patterns": [
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189
+      ],
+      "emergent_phenomena": "Gardens that extend the life of the building and provide connection to nature"
+    },
+    {
+      "id": 26,
+      "heading": "Inside, attach necessary minor rooms and alcoves",
+      "description": "Sequence 26 focuses on inside, attach necessary minor rooms and alcoves",
+      "category": "Buildings",
+      "patterns": [
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196
+      ],
+      "emergent_phenomena": "Secondary spaces that support the main activities without overwhelming them"
+    },
+    {
+      "id": 27,
+      "heading": "Fine tune the shape and size of rooms and alcoves",
+      "description": "Sequence 27 focuses on fine tune the shape and size of rooms and alcoves",
+      "category": "Buildings",
+      "patterns": [
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196
+      ],
+      "emergent_phenomena": "Rooms shaped and sized to support their specific functions and create comfort"
+    },
+    {
+      "id": 28,
+      "heading": "Give the walls some depth",
+      "description": "Sequence 28 focuses on give the walls some depth",
+      "category": "Buildings",
+      "patterns": [
+        197,
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204
+      ],
+      "emergent_phenomena": "Walls with depth that provide storage, seating, and architectural richness"
+    }
+  ]
+}

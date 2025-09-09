@@ -1,0 +1,132 @@
+{
+  "name": "Construction",
+  "description": "Patterns that create buildable buildings directly from rough schemes of spaces. Physical attitude to construction that works with the kinds of buildings the pattern language generates, intended for both professional and amateur owner-builders.",
+  "process": "Alternative to technocratic and rigid building approaches. Leads to buildings that are unique and tailored to their sites. Depends on builders taking responsibility and working out details as they build, making experiments and building according to results.",
+  "pattern_range": {
+    "start": 205,
+    "end": 253
+  },
+  "sequences": [
+    {
+      "id": 29,
+      "heading": "Let the structure grow directly from your plans and your conception of the buildings",
+      "description": "Sequence 29 focuses on let the structure grow directly from your plans and your conception of the buildings",
+      "category": "Construction",
+      "patterns": [
+        205,
+        206,
+        207,
+        208
+      ],
+      "emergent_phenomena": "Structural systems that grow naturally from the spatial organization rather than imposing a grid"
+    },
+    {
+      "id": 30,
+      "heading": "Work out the complete structural layout",
+      "description": "Sequence 30 focuses on work out the complete structural layout",
+      "category": "Construction",
+      "patterns": [
+        209,
+        210,
+        211,
+        212,
+        213
+      ],
+      "emergent_phenomena": "Coherent structural layouts that efficiently support the intended spatial arrangements"
+    },
+    {
+      "id": 31,
+      "heading": "Mark the column locations and erect the main frame",
+      "description": "Sequence 31 focuses on mark the column locations and erect the main frame",
+      "category": "Construction",
+      "patterns": [
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220
+      ],
+      "emergent_phenomena": "Primary structural framework that can support the intended building form and loads"
+    },
+    {
+      "id": 32,
+      "heading": "Fix the exact positions for openings and frame them",
+      "description": "Sequence 32 focuses on fix the exact positions for openings and frame them",
+      "category": "Construction",
+      "patterns": [
+        221,
+        222,
+        223,
+        224,
+        225
+      ],
+      "emergent_phenomena": "Window and door openings positioned to support both structure and spatial quality"
+    },
+    {
+      "id": 33,
+      "heading": "Put in the following subsidiary patterns",
+      "description": "Sequence 33 focuses on put in the following subsidiary patterns",
+      "category": "Construction",
+      "patterns": [
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232
+      ],
+      "emergent_phenomena": "Secondary structural elements that complete the building system"
+    },
+    {
+      "id": 34,
+      "heading": "Put in the surfaces and indoor details",
+      "description": "Sequence 34 focuses on put in the surfaces and indoor details",
+      "category": "Construction",
+      "patterns": [
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240
+      ],
+      "emergent_phenomena": "Interior surfaces and details that create comfortable and beautiful interior spaces"
+    },
+    {
+      "id": 35,
+      "heading": "Build outdoor details",
+      "description": "Sequence 35 focuses on build outdoor details",
+      "category": "Construction",
+      "patterns": [
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248
+      ],
+      "emergent_phenomena": "Exterior details that connect the building to its immediate surroundings"
+    },
+    {
+      "id": 36,
+      "heading": "Complete the building",
+      "description": "Sequence 36 focuses on complete the building",
+      "category": "Construction",
+      "patterns": [
+        249,
+        250,
+        251,
+        252,
+        253
+      ],
+      "emergent_phenomena": "Final elements that give the building its unique character and sense of completion"
+    }
+  ]
+}
